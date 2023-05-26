@@ -1,0 +1,18 @@
+{
+    // Используйте IntelliSense, чтобы узнать о возможных атрибутах.
+    // Наведите указатель мыши, чтобы просмотреть описания существующих атрибутов.
+    // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch Package",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "/home/vasily/Рабочий стол/Учебная/Learn/main.go",
+            "cwd":"/home/vasily/Рабочий стол/Учебная/Learn",
+            "console": "integratedTerminal",
+            "args": ["-token","6119364665:AAFKa5KzocwbO2jsFpR5luKvqnQjQIrCjlg"]
+        }
+    ]
+}
