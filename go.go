@@ -21,6 +21,19 @@ func localint() {
 
 	var v, t, e = true, "te", 123
 	println(v, t, e)
+
+	short := 123 //краткое обьявление
+	println(short)
+
+	ter, mo, reg := 1, 2, 3
+	println(ter, mo, reg)
+
+	//f,err:= os.OpenFile("rt.tr",1,4)
+	//println(f,err)
+
+	//f,err:= os.OpenFile("rt.tr",1,4)
+	//println(f,err)
+	// Будет ошибка, так как два раза инициализируем
 }
 
 func main() {
